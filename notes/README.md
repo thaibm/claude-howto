@@ -8,7 +8,7 @@ Ghi chú cá nhân khi học repo này. Các file bài học gốc được gi�
 |---|--------|------------|
 | 01 | [Slash Commands](01-slash-commands.md) | ⬜ |
 | 02 | [Memory](02-memory.md) | ⬜ |
-| 03 | [Skills](03-skills.md) | ⬜ |
+| 03 | [Skills](03-skills.md) | 🟨 |
 | 04 | [Subagents](04-subagents.md) | ⬜ |
 | 05 | [MCP](05-mcp.md) | ⬜ |
 | 06 | [Hooks](06-hooks.md) | ⬜ |
